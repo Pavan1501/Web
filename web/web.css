@@ -1,0 +1,48 @@
+body {
+  background-color:#f4f6f9;
+  color: #444;
+}
+header{
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+nav{
+    background-color: #ffffff;
+    text-align: center;
+    padding: 12px;
+    color: white;
+}
+section{
+    padding: 25px;
+    margin: 20px auto;
+    max-width: 900px;
+    border-radius: 8px;
+    background-color: #ffffff;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 15px;
+    
+}
+table th,
+table td {
+    border: 1px solid #ddd;
+    padding: 12px;
+    text-align: left;
+}
+table th {
+    background-color: #f1f1f1;
+    font-weight: 600;
+    color: #333;
+}
+form label{
+    width: 100%;
+}
+form textarea,
+form input,
+form button{
+    width: 100%;
+}
